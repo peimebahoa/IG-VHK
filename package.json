@@ -1,0 +1,15 @@
+{
+  "name": "ig-username-checker",
+  "private": true,
+  "type": "module",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.5.0"
+  },
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo \"Edge functions don’t need build\"",
+    "start": "vercel dev"
+  }
+}
