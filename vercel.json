@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/check-ig-username.ts": {
+      "runtime": "edge"
+    }
+  }
+}
